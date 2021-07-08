@@ -60,7 +60,6 @@ const Wrapper = styled.div`
 const Bar = styled.div`
   width: 100;
   height: var(--height);
-  background: #ffffff;
   background: -webkit-linear-gradient(left, ${COLORS.primary} 0%, ${COLORS.primary} var(--width), transparent var(--width), transparent 100%);
   border-radius: 4px;
 `;
