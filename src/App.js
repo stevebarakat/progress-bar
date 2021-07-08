@@ -3,7 +3,7 @@ import ProgressBar from './components/ProgressBar';
 
 function App() {
   return (
-    <ProgressBar value={100} size={"large"} />
+    <ProgressBar value={99} size={"large"} />
   );
 }
 
